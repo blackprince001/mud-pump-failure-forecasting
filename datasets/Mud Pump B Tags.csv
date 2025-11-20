@@ -1,0 +1,41 @@
+Tags,Units,
+Mud Pump B, ,
+MUD PUMP A SLEECTED PRESSURE,KPA,
+MUD PUMP B SPEED,RPM,
+MUD PUMP B SPEED,%,
+Mud Pump B Current,AMPS,
+MUD PUMP B SPEED,RPM,
+MUD PUMP B CYLINDER 1,KPA,
+MUD PUMP B CYLINDER 3,KPA,
+Mud Pump B Cylinder #1 Temperature,Deg C,
+Mud Pump B Cylinder #2 Temperature,Deg C,
+Mud Pump B Cylinder #3 Temperature,Deg C,
+Mud Pump B Cylinder #4 Temperature,Deg C,
+,,
+B_LAST_NORTH_OIL_SIDE_SM,Date of last oil-side SM, 
+B_LAST_SOUTH_OIL_SIDE_SM,Date of last oil-side SM, 
+B_NORTH_OIL_SIDE.DAYS_LEFT,Days until Pump next needs oil-side SM,DAYS
+B_NORTH_OIL_SIDE.EXPECTED_LIFE,Age at which pump needs oil-side SM,Days
+B_NORTH_OIL_SIDE.RESID_LIFE_%,Residual Life %,%
+B_NORTH_OIL_SIDE.RLIFE_STATUS,"Indicator as to whether equipment is running, being maintained or on standby.", 
+B_NORTH_OIL_SIDE.RUNDAYS,Days since Pump next needs oil-side SM,DAYS
+B_SOUTH_OIL_SIDE.DAYS_LEFT,Days until Pump next needs oil-side SM,DAYS
+B_SOUTH_OIL_SIDE.EXPECTED_LIFE,Age at which pump needs oil-side SM,Days
+B_SOUTH_OIL_SIDE.RESID_LIFE_%,Residual Life %,%
+B_SOUTH_OIL_SIDE.RLIFE_STATUS,"Indicator as to whether equipment is running, being maintained or on standby.", 
+B_SOUTH_OIL_SIDE.RUNDAYS,Days since Pump next needs oil-side SM,DAYS
+,,
+,,
+,,
+34hs3650.pv,,
+34pH0645.pv,,
+34SC0676.PV,,
+34SC0676.OP,,
+34IT0675.PV,,
+34SC0676.DA,,
+34pt0691.pv,,
+34pt0693.pv,,
+34TT0765.PV,,
+34TT0766.PV,,
+34TT0767.PV,,
+34TT0768.PV,,
